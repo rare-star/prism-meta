@@ -3,7 +3,7 @@ CTS Fabric for Prism Launcher. Important: Check Updates section.
 ## What it does?
 It changes Fabric Intermediary for Fabric on Combat Test Snapshots.
 ## Tutorial.
-Open Settings, go to APIs, and set Metadata Server to `https://ctsmeta.latteru.ru/` just like on screenshot
+Open Settings, go to APIs, and set Metadata Server to `https://meta.trap.su/` just like on screenshot
 
 ![image](https://github.com/ibeticanhandlethis/prism-cts/assets/110296162/54a7678f-96ba-4b8d-aa5a-ac95ab48b593)
 ## Versions working:
